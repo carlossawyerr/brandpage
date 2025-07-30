@@ -213,7 +213,7 @@ const ComingSoonPage = () => {
                         
                       </DialogTitle>
                       <DialogDescription className="text-sm sm:text-lg text-gray-700 font-light leading-relaxed mt-4 font-sans tracking-wide text-center">
-                       <span className="italic">Get notified when the debut collection drops!</span>  <span className="not-italic">🎩</span>    <br/> 
+                       <span className="italic">Get first access to Collection №1 </span>  <span className="not-italic">🎩</span>    <br/> 
              
                       </DialogDescription>
                     </div>
