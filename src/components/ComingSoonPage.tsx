@@ -73,7 +73,7 @@ const ComingSoonPage = () => {
         setSubmitStatus('success');
         setToast({
           isVisible: true,
-          message: " You're on the List! We'll be in touch soon 🎩",
+          message: " You're on the List! We'll be in touch soon",
           type: 'success'
         });
         setEmail('');
