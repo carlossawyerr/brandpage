@@ -178,7 +178,7 @@ const ComingSoonPage = () => {
             <div className="md:hidden absolute left-1/2 transform -translate-x-1/2" style={{ top: '20%' }}>
               <DialogTrigger asChild>
                 <button className="px-6 py-2 bg-transparent border-2 border-black text-black font-medium tracking-wide hover:bg-black hover:text-white transition-all duration-300 rounded-sm text-sm">
-                 Join the Waitlist
+                 Get First Access
                 </button>
               </DialogTrigger>
             </div>
