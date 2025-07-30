@@ -236,7 +236,7 @@ const ComingSoonPage = () => {
                   <div className="text-center py-4">
                     {submitStatus === 'success' && (
                       <p className="text-black font-light animate-fade-in-only text-lg sm:text-xl tracking-wide">
-                       You're on the list. We'll be in touch soon! 🎩
+                       You're on the list. We'll be in touch soon!
                       </p>
                     )}
                     
