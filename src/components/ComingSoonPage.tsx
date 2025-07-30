@@ -224,7 +224,7 @@ const ComingSoonPage = () => {
                         
                       </DialogTitle>
                       <DialogDescription className="text-base sm:text-lg text-gray-700 font-light leading-relaxed mt-1 font-sans tracking-wide text-center">
-                       <span>Get first access to Collection №1 </span> <span className="not-italic">🎩</span>    <br/> 
+                       <span>Get first access to Collection №1   <br/> 
              
                       </DialogDescription>
                     </div>
